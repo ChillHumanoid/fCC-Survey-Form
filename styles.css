@@ -4,11 +4,16 @@
   --main-text: #000000;
 }
 
+html {
+  margin-left: 20px;
+}
+
 body {
   font-family: 'Raleway', sans-serif;
-    line-height: 2.0;
+  line-height: 2.0;
   color: var(--main-text);
-  background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg)
+  background-image: url(https://images.pexels.com/photos/3255761/pexels-photo-3255761.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-repeat: repeat-x;
 }
 
 h1 {
@@ -22,10 +27,13 @@ p {
 }
 
 #name, #email, #number {
-    background-color: white;
-    font-family: 'Source Code Pro', sans-serif;
-    border: 1px solid black;
-    margin: 10px 10px 0 10px;
+  background-color: white;
+  font-family: 'Source Code Pro', sans-serif;    
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 10px 10px 0 10px;
+  margin-right: 5px;
+  margin-bottom: 10px;
 }
  
 #dropdown {
@@ -33,6 +41,7 @@ p {
   color: var(--main-text);
   background-color: white;
   margin: 10px 5px;
+  border-radius: 4px;
 }
 
 #recommend-app {
@@ -46,6 +55,7 @@ p {
 textarea {
   background-color: white;
   border: 1px solid black;
+  border-radius: 4px;
   margin: 10px 0 0 10px;
 }
 
