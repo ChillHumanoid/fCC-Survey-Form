@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Source+Code+Pro:ital@0;1&display=swap');
+
+:root {
+  --main-text: #000000;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+    line-height: 2.0;
+  color: var(--main-text);
+  background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg)
+}
+
+h1 {
+  font-size: 22px;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+#name, #email, #number {
+    background-color: white;
+    font-family: 'Source Code Pro', sans-serif;
+    border: 1px solid black;
+    margin: 10px 10px 0 10px;
+}
+ 
+#dropdown {
+  font-family: 'Source Code Pro', sans-serif;
+  color: var(--main-text);
+  background-color: white;
+  margin: 10px 5px;
+}
+
+#recommend-app {
+  margin: 0 10px 10px 0;
+}
+
+#new-features {
+  margin: 0 10px 10px 0;
+}
+
+textarea {
+  background-color: white;
+  border: 1px solid black;
+  margin: 10px 0 0 10px;
+}
+
+#submit {
+  color: black;
+  background-color: white;
+  margin: 10px;
+}
+
+#submit:hover {
+  color: white;
+  background-color: black;
+}
