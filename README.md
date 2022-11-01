@@ -13,4 +13,4 @@
 ------
 
 ## :computer: Author:
-+ Coded with :blue_heart: by [Kirsten Canfield](htts://github.com/ChillHumanoid)
++ Coded with :blue_heart: by [Kirsten Canfield](https://github.com/ChillHumanoid)
