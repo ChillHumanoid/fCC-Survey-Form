@@ -11,7 +11,7 @@
 
 ## :camera: Screenshot:
 ------
-[![Project Preview](https://github.com/ChillHumanoid/fCC-Survey-Form/blob/main/project-preview.png)]
+![Project Preview](https://github.com/ChillHumanoid/fCC-Survey-Form/blob/main/project-preview.png)
 
 ## :computer: Author:
 + Coded with :blue_heart: by [Kirsten Canfield](https://github.com/ChillHumanoid)
