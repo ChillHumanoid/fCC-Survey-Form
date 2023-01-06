@@ -1,6 +1,6 @@
 # :notebook: freeCodeCamp Survey Form Project
 ------
-+ [Live Version of Survey Form](https://codepen.io/chillhumanoid/full/vYroQPe)
++ [Live Version](https://codepen.io/chillhumanoid/full/vYroQPe)
 + [Link to fCC Project Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
 ## :wrench: Languages and Tools:
